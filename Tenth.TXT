@@ -1,3 +1,5 @@
 Checking for stash
 
 again checking for stash
+
+Check for fast forward 
