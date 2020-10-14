@@ -2,4 +2,9 @@ Checking for stash
 
 again checking for stash
 
+<<<<<<< HEAD
 Check for fast forward 
+=======
+
+Checking for merging
+>>>>>>> dev
