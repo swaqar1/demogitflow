@@ -1,3 +1,5 @@
 Now adding branch
 
 Checking git revert command
+
+Checking fast forward commit demo
