@@ -3,8 +3,12 @@ Checking for stash
 again checking for stash
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Check for fast forward 
 =======
 
 Checking for merging
 >>>>>>> dev
+=======
+Check again
+>>>>>>> dev-waqar
