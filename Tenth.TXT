@@ -1,3 +1,6 @@
 Checking for stash
 
 again checking for stash
+
+
+Checking for merging
